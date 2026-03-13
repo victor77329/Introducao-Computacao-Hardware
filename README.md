@@ -1,1 +1,1 @@
-# Introducao-Computacao-Hardware
+# Introducao-Computacao-Hardware-Victor Gabriel Madeiro Brito Marques 
