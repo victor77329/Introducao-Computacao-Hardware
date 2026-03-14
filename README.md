@@ -33,6 +33,23 @@ Os rotores eram discos com circuitos internos responsáveis por realizar a subst
  Além disso, sistemas modernos como o ChatGPT e algoritmos de inteligência artificial podem quebrar a Enigma de forma quase instantânea, usando análise estatística avançada, computação paralela massiva e aprendizado de máquina.
  A criptografia da Enigma, com 150 quintilhões de combinações, era invencível para a época, mas hoje seria trivial para os padrões atuais de segurança digital, que usam chaves de 256 bits ou mais, resistindo até a computadores quânticos teóricos. 
  
+## Análise Técnica – Tabela comparativa
+Componente	Hardware Histórico 	Hardware moderno
+(Computadores atualmente)
+
+ULA	Implementada com válvulas eletrônicas ou transistores discretos, ocupando grande espaço físico e consumindo muita energia. O desempenho era limitado, realizando milhares de operações por segundo.	Integrada dentro de microprocessadores em circuitos integrados, com bilhões de transistores. Realiza bilhões de operações por segundo e faz parte de CPUs e GPUs altamente otimizadas.
+
+Memória	Inicialmente utilizava tecnologias como linhas de atraso de mercúrio ou memória de núcleo magnético, com capacidade muito pequena (ex.: cerca de 1000 palavras de memória em computadores antigos).	Utiliza memória semicondutora (RAM, DDR4/DDR5) com capacidades de gigabytes ou terabytes, acesso extremamente rápido e baixo consumo de energia.
+
+Armazenamento de dados	Usava fitas magnéticas, cartões perfurados ou tambores magnéticos, com acesso sequencial e baixa velocidade.	Usa SSDs e discos rígidos modernos, com acesso rápido, grande capacidade (centenas de GB a vários TB) e alta confiabilidade.
+
+Periféricos de entrada	Cartões perfurados, fitas perfuradas e painéis de controle manual. Muitas vezes exigiam configuração física da máquina para executar programas.	Teclado, mouse, touchscreen, sensores, webcams, scanners e dispositivos de entrada avançados.
+
+Periféricos de saída	Impressoras mecânicas e fitas impressas eram os principais meios de saída.	Monitores de alta resolução, impressoras modernas, realidade virtual, dispositivos de áudio e vídeo digitais.
+
+Tamanho físico	Computadores ocupavam salas inteiras, pesavam toneladas e consumiam muita energia.	Computadores podem caber em notebooks, smartphones ou dispositivos embarcados, consumindo muito menos energia.
+Velocidade de processamento	Realizavam poucas milhares de operações por segundo.	Realizam bilhões de operações por segundo graças aos processadores modernos e paralelismo.
+
 ![Image](https://github.com/user-attachments/assets/c222306e-c970-490e-b12f-8d71b33776c6)
 
  ## fontes 
