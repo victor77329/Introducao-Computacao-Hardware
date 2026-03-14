@@ -26,6 +26,8 @@ Os rotores eram discos com circuitos internos responsáveis por realizar a subst
  Quando uma tecla era pressionada, uma corrente elétrica percorria o sistema, e a luz correspondente à letra criptografada acendia no painel. O operador digitava a mensagem original (plaintext) no teclado, e o resultado cifrado (ciphertext) era lido pelas luzes acesas.
  A interface também incluía um painel de conectores (plugboard), onde cabos conectavam pares de letras para alterar o caminho elétrico antes e depois dos rotores, aumentando a complexidade da cifra.
  A aparência era semelhante a uma máquina de escrever, com os rotores girando automaticamente após cada tecla pressionada, alterando a cifra a cada letra.
+ 
+![Image](https://github.com/user-attachments/assets/b09f71bc-8c1d-407a-a3ff-7e1241155c44)
 
  ## Comparação
  A máquina Enigma, usada pela Alemanha na Segunda Guerra Mundial, era um dispositivo eletromecânico complexo, mas seu poder computacional é insignificante comparado ao hardware atual. Um processador moderno em um notebook pode realizar bilhões de operações por segundo, superando em muito o que era possível em Bletchley Park, onde as bombas de Turing máquinas pesadas e lentas eram usadas para tentar quebrar os códigos. 
