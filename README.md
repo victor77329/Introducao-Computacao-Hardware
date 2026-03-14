@@ -3,6 +3,8 @@
 
 **Alunos: Victor Gabriel e Nicolle Coelho**
 
+![Image](https://github.com/user-attachments/assets/a12210cc-079d-4d1b-ab23-62502415c46c)
+
 ## Processamento
 ## Armazenamento
 
