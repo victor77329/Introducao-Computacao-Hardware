@@ -17,6 +17,8 @@
  O que levou meses ou anos na década de 1940 hoje seria resolvido em segundos.  As bombas mecânicas de Turing, que ocupavam salas inteiras, podem agora ser simuladas em software em um computador pessoal, executando o mesmo trabalho milhares de vezes mais rápido. Um smartphone atual possui mais poder computacional que todos os computadores combinados de Bletchley Park na época. 
  Além disso, sistemas modernos como o ChatGPT e algoritmos de inteligência artificial podem quebrar a Enigma de forma quase instantânea, usando análise estatística avançada, computação paralela massiva e aprendizado de máquina.
  A criptografia da Enigma, com 150 quintilhões de combinações, era invencível para a época, mas hoje seria trivial para os padrões atuais de segurança digital, que usam chaves de 256 bits ou mais, resistindo até a computadores quânticos teóricos. 
+ 
+![Image](https://github.com/user-attachments/assets/c222306e-c970-490e-b12f-8d71b33776c6)
 
  ## fontes 
  https://brasilescola.uol.com.br/historiag/maquina-enigma.htm
