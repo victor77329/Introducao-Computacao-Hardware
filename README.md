@@ -1,12 +1,9 @@
 # Introducao-Computacao-Hardware-Victor-Nicolle
+#Investigação de hardware: Máquina Enigma
 
-Atividade de Investigação: Arqueologia Digital e a Evolução dos Componentes
-Victor Gabriel e Nicolle Coelho
-
-# Pesquisa sobre a máquina enigma
+**Alunos: Victor Gabriel e Nicolle Coelho**
 
 ## Processamento
-
 ## Armazenamento
 
 ## Interface
