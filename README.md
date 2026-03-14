@@ -60,4 +60,13 @@ Velocidade de processamento	Realizavam poucas milhares de operações por segund
  https://revistagalileu.globo.com/Ciencia/noticia/2018/11/segredos-da-maquina-nazista-enigma-sao-quebrados-em-exame-de-raios-x.html
  https://revistagalileu.globo.com/Ciencia/noticia/2018/11/segredos-da-maquina-nazista-enigma-sao-quebrados-em-exame-de-raios-x.html
  https://www.computerhistory.org/collections/catalog/B197.81
+ https://www.sciencedirect.com/topics/computer-science/enigma-machine
+https://brasilescola.uol.com.br/historiag/maquina-enigma.htm
+https://www.infoescola.com/segunda-guerra/enigma/
+https://www.theguardian.com/technology/2014/nov/14/how-did-enigma-machine-work-imitation-game
+https://www.britannica.com/technology/computer
+https://www.webopedia.com/definitions/computer/
+https://www.researchgate.net/publication/387964642_Optimized_Design_and_Applications_of_Arithmetic_Logic_Units_Addressing_Power_Efficiency_and_Performance_in_Diverse_Computing_Applications
+
+
  
