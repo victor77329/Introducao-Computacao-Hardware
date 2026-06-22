@@ -13,9 +13,9 @@
 
 ## Objetivos
 
-* Aprimorar minhas habilidades como desenvolvedor
+* Aprimorar minhas habilidades 
 * Contribuir para projetos colaborativos
-* Construir soluções úteis e inovadoras
+* Construir soluções úteis 
 * Compartilhar conhecimento e aprendizado
 
 
