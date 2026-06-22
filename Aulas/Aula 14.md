@@ -1,132 +1,125 @@
-# Aula 14 – Segurança da Informação: Conceitos, Atributos e Ameaças
+# Segurança da informação
 
-## Integrantes
-Victor Gabriel Madeiro Brito Marques
-Nicolle Coelho da Silva
+## Aula 14 – Segurança da Informação
 
-# 1. Conceitos Fundamentais
-
-## O que é Segurança da Informação?
-
-De acordo com a norma ISO/IEC 27000:2018, Segurança da Informação é a preservação da confidencialidade, integridade e disponibilidade das informações, além de outros atributos como autenticidade, responsabilidade, não repúdio e confiabilidade.
-
-Seu objetivo é proteger informações contra acessos não autorizados, alterações indevidas, perdas ou indisponibilidade.
-
-## Principais Atributos
-
-### Confidencialidade
-
-Garante que a informação seja acessada apenas por pessoas autorizadas.
-
-**Exemplo:** Senhas e dados bancários protegidos por criptografia.
-
-### Integridade
-
-Assegura que a informação não seja alterada de forma indevida.
-
-**Exemplo:** Um histórico escolar não pode ser modificado por usuários sem permissão.
-
-### Disponibilidade
-
-Garante que os sistemas e informações estejam acessíveis quando necessários.
-
-**Exemplo:** Um site de banco deve permanecer disponível para seus clientes 24 horas por dia.
-
-### Privacidade
-
-Refere-se à proteção dos dados pessoais dos usuários.
-
-**Exemplo:** Empresas devem proteger informações como CPF, endereço e telefone de seus clientes.
-
----
-
-# 2. Ameaças e Vulnerabilidades
+Este repositório apresenta os conceitos fundamentais de Segurança da Informação, exemplos de ameaças e vulnerabilidades, além de um estudo de caso sobre um ataque cibernético real.
 
 ## Ameaças Digitais
 
 ### Phishing
-
-Golpe realizado por e-mails, mensagens ou sites falsos que tentam obter informações pessoais e senhas dos usuários.
+Golpe que tenta enganar usuários para obter senhas e dados pessoais através de e-mails falsos.
 
 ### Malware
+Programas maliciosos que podem roubar informações, danificar sistemas ou espionar usuários.
 
-Software malicioso criado para danificar, roubar dados ou comprometer sistemas.
-
-Tipos comuns:
-
-* Vírus
-* Worms
-* Trojans
-* Spyware
-* Ransomware
+Exemplos:
+- Vírus
+- Worms
+- Ransomware
+- Spyware
 
 ### Engenharia Social
+Manipulação psicológica para convencer pessoas a revelar informações confidenciais.
 
-Técnica de manipulação psicológica utilizada para convencer pessoas a revelar informações confidenciais.
+Exemplo:
+- Ligações falsas fingindo ser suporte técnico.
 
-**Exemplo:** Um criminoso se passando por funcionário do suporte técnico.
+## Vulnerabilidades
 
-## Vulnerabilidades Técnicas
+### Vulnerabilidades Técnicas
+- Sistemas desatualizados
+- Senhas fracas
+- Falta de firewall
+- Configurações inseguras
 
-* Sistemas desatualizados.
-* Senhas fracas.
-* Falhas de configuração.
-* Ausência de antivírus.
-
-## Vulnerabilidades Humanas
-
-* Compartilhamento de senhas.
-* Falta de treinamento.
-* Abertura de links suspeitos.
-* Uso inadequado dos recursos tecnológicos.
+### Vulnerabilidades Humanas
+- Compartilhamento de senhas
+- Falta de treinamento
+- Clique em links suspeitos
+- Uso inadequado de dispositivos
 
 ## Impactos Potenciais
 
-* Vazamento de dados.
-* Perda financeira.
-* Interrupção de serviços.
-* Danos à reputação da organização.
-* Processos judiciais e multas.
+- Vazamento de dados
+- Prejuízos financeiros
+- Interrupção de serviços
+- Danos à reputação da empresa
+- Perda de confiança dos clientes
 
----
 
-# 3. Estudo de Caso – Opção A: Ataque Cibernético Real
+# Conceitos Fundamentais de Segurança da Informação
 
-## Caso: WannaCry (2017)
+## Definição de Segurança da Informação
 
-### Contexto do Ataque
+Segundo a ISO/IEC 27000:2018, Segurança da Informação é a preservação da confidencialidade, integridade e disponibilidade da informação, além de outras propriedades como autenticidade, responsabilidade, não repúdio e confiabilidade.
 
-O WannaCry foi um ransomware que se espalhou rapidamente pelo mundo em maio de 2017. Ele afetou milhares de computadores em mais de 150 países, incluindo hospitais, empresas e órgãos governamentais.
+## Principais Atributos
 
-### Vulnerabilidade Explorada
+### Confidencialidade
+Garante que apenas pessoas autorizadas tenham acesso às informações.
 
-O ataque utilizou uma falha no sistema operacional Windows conhecida como EternalBlue, explorando computadores que não haviam recebido atualizações de segurança.
+Exemplo:
+- Senhas e criptografia para proteger dados bancários.
 
-### Impactos Causados
+### Integridade
+Assegura que as informações não sejam alteradas indevidamente.
 
-* Criptografia dos arquivos das vítimas.
-* Paralisação de serviços hospitalares.
-* Prejuízos financeiros milionários.
-* Interrupção de atividades em empresas e instituições públicas.
+Exemplo:
+- Sistemas de verificação de arquivos e backups.
 
-### Medidas de Mitigação
+### Disponibilidade
+Garante que os dados e sistemas estejam acessíveis quando necessários.
 
-* Atualização constante dos sistemas.
-* Realização de backups periódicos.
-* Uso de antivírus e ferramentas de proteção.
-* Treinamento dos usuários para reconhecer ameaças.
-* Aplicação rápida de correções de segurança.
+Exemplo:
+- Servidores redundantes e sistemas de recuperação.
 
-### Conclusão
+### Privacidade
+Relaciona-se à proteção dos dados pessoais dos usuários.
+Exemplo:
+- Proteção de CPF, endereço e informações médicas.
 
-O caso WannaCry demonstrou a importância da atualização de sistemas e da conscientização dos usuários para prevenir ataques cibernéticos.
 
----
+# Estudo de Caso – Ataque WannaCry
+
+## Contexto do Ataque
+
+O WannaCry foi um ataque de ransomware ocorrido em 2017 que afetou milhares de computadores em diversos países. O malware criptografava os arquivos das vítimas e exigia pagamento em bitcoin para liberar o acesso.O ataque explorou uma falha no sistema operacional Windows chamada EternalBlue, relacionada ao protocolo SMB. Muitos computadores estavam sem atualização de segurança.
+
+## Impactos Causados
+
+- Paralisação de hospitais e empresas
+- Perda de acesso a arquivos importantes
+- Prejuízos financeiros milionários
+- Interrupção de serviços públicos
+
+## Medidas de Mitigação
+
+- Atualização constante dos sistemas
+- Uso de antivírus e firewall
+- Realização de backups frequentes
+- Treinamento de usuários
+- Monitoramento de redes
+
 
 # Reflexão Individual
 
 ## Por que o fator humano é considerado o elo mais frágil da segurança da informação?
 
-O fator humano é considerado o elo mais frágil da segurança da informação porque muitas falhas de segurança ocorrem devido a erros, distrações ou falta de conhecimento dos usuários. Mesmo quando uma organização possui tecnologias avançadas de proteção, uma pessoa pode comprometer todo o sistema ao utilizar senhas fracas, compartilhar informações confidenciais ou clicar em links maliciosos. Técnicas como phishing e engenharia social exploram justamente comportamentos humanos, aproveitando-se da confiança, curiosidade ou falta de atenção das vítimas.
+O fator humano é considerado o elo mais frágil da segurança da informação porque muitas falhas de segurança acontecem devido a erros cometidos pelas pessoas. Mesmo com sistemas modernos e tecnologias avançadas,
+um simples clique em um link malicioso pode comprometer toda uma organização.Muitos ataques utilizam engenharia social para manipular usuários e obter informações confidenciais. Isso ocorre porque criminosos sabem que é
+mais fácil enganar pessoas do que quebrar sistemas de proteção complexos.Além disso, práticas inseguras como usar senhas fracas, compartilhar dados pessoais ou ignorar atualizações aumentam os riscos de ataques. A falta de
+treinamento também contribui para que usuários não reconheçam ameaças digitais.Por esse motivo, empresas e instituições devem investir não apenas em tecnologia, mas também em conscientização e educação dos usuários.
+Funcionários treinados conseguem identificar riscos e agir de maneira mais segura, reduzindo vulnerabilidades e protegendo as informações.
 
-Além disso, muitos incidentes de segurança são causados por ações não intencionais, como o envio de informações para destinatários errados ou a instalação de programas desconhecidos. Por esse motivo, investir em treinamentos, conscientização e boas práticas de segurança é tão importante quanto investir em tecnologia. A proteção das informações depende não apenas dos sistemas, mas também das pessoas que os utilizam diariamente.
+
+## Integrantes
+- Nicolle Da Silva Coelho: https://github.com/Nicollixx
+- Victor Gabriel: https://github.com/victor77329
+
+
+
+## Referencias
+
+https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+2nd+Edition-p-9780470068526?utm_source=chatgpt.com
+https://www.wiley.com/en-us/The+Art+of+Deception%3A+Controlling+the+Human+Element+of+Security-p-9780764542800?utm_source=chatgpt.com
+https://www.iso.org/standard/75652.html?utm_source=chatgpt.com
