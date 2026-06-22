@@ -8,11 +8,8 @@
 
 📚 Atualmente estou focado em aprender novas tecnologias, boas práticas de programação e desenvolvimento.
 
-## Tecnologias e Ferramentas
-
-* HTML, CSS e JavaScript
-* Git e GitHub
-* Análise e Modelagem de Sistemas
+## Repositório
+* Neste repositório estão as atividades das aulas de introdução de computação.
 
 ## Objetivos
 
